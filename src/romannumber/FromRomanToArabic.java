@@ -8,7 +8,7 @@ public class FromRomanToArabic {
 	
 	public FromRomanToArabic() {
 		romanValues = new HashMap<>();
-		romanValues.put("I", 2);
+		romanValues.put("I", 1);
 		romanValues.put("V", 5);
 		romanValues.put("X", 10);
 		romanValues.put("C", 100);
